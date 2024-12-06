@@ -1,0 +1,40 @@
+{
+    "universities": [
+        {
+            "key": 1,
+            "name": "Patliputra University, Patna",
+            "abbreviation": "PPU",
+            "description": "A state university located in Patna, established in 2018."
+        },
+        {
+            "key": 2,
+            "name": "University of Delhi",
+            "abbreviation": "DU",
+            "description": "A central university located in New Delhi, established in 1922."
+        },
+        {
+            "key": 3,
+            "name": "Magadh University",
+            "abbreviation": "MU",
+            "description": ""
+        },
+        {
+            "key": 4,
+            "name": "Patna University",
+            "abbreviation": "PU",
+            "description": ""
+        },
+        {
+            "key": 5,
+            "name": "Aryabhat Knowledge University",
+            "abbreviation": "AKU",
+            "description": ""
+        },
+        {
+            "key": 6,
+            "name": "Nalanda Open University",
+            "abbreviation": "NOU",
+            "description": ""
+        }
+    ]
+}

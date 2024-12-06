@@ -1,0 +1,46 @@
+.font-size-22{
+    font-size: 28px;
+}
+
+.pointer{
+    cursor: pointer;
+}
+
+.box-shadow{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+.box-shadow2{
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.bg-F9EEEE{
+    background-color: #F9EEEE;
+    background-color: #f8f6f6;
+    background-color: #eef6f8;
+    background-color: #748D92;
+}
+.bg-212A31{
+    background-color: #212A31;
+}
+.bg-124E66{
+    background-color: #124e66d0;
+}
+.bg-124E66:hover{
+    background-color: #124E66;
+}
+
+.bg-2E3944{
+    background-color: #2E3944;
+}
+.bg-D3D9D4{
+    background-color: #D3D9D4;
+}
+
+.text-white{
+    color: #fff;
+}
+
+.vh-100{
+    height: 100vh;
+}

@@ -1,0 +1,71 @@
+{
+    "boards": [
+      {
+        "key": 1,
+        "name": "Central Board of Secondary Education",
+        "abbreviation": "CBSE",
+        "description": "A national-level board for public and private schools."
+      },
+      {
+        "key": 2,
+        "name": "Council for the Indian School Certificate Examinations",
+        "abbreviation": "CISCE",
+        "description": "Conducts the ICSE and ISC exams."
+      },
+      {
+        "key": 3,
+        "name": "National Institute of Open Schooling",
+        "abbreviation": "NIOS",
+        "description": "An open schooling system."
+      },
+      {
+        "key": 4,
+        "name": "Board of Intermediate Education, Andhra Pradesh",
+        "abbreviation": "BIEAP",
+        "description": "Conducts intermediate exams in Andhra Pradesh."
+      },
+      {
+        "key": 5,
+        "name": "Assam Higher Secondary Education Council",
+        "abbreviation": "AHSEC",
+        "description": "Conducts higher secondary exams in Assam."
+      },
+      {
+        "key": 6,
+        "name": "Bihar School Examination Board",
+        "abbreviation": "BSEB",
+        "description": "Conducts secondary and intermediate exams in Bihar."
+      },
+      {
+        "key": 7,
+        "name": "Chhattisgarh Board of Secondary Education",
+        "abbreviation": "CGBSE",
+        "description": "Conducts secondary and higher secondary exams in Chhattisgarh."
+      },
+      {
+        "key": 8,
+        "name": "Maharashtra State Board of Secondary and Higher Secondary Education",
+        "abbreviation": "MSBSHSE",
+        "description": "Conducts secondary and higher secondary exams in Maharashtra."
+      },
+      {
+        "key": 9,
+        "name": "Madhya Pradesh Board of Secondary Education",
+        "abbreviation": "MPBSE",
+        "description": "Conducts secondary and higher secondary exams in Madhya Pradesh."
+      },
+      {
+        "key": 10,
+        "name": "Uttar Pradesh Madhyamik Shiksha Parishad",
+        "abbreviation": "UPMSP",
+        "description": "Conducts secondary and higher secondary exams in Uttar Pradesh."
+      },
+      {
+        "key": 11,
+        "name": "West Bengal Council of Higher Secondary Education",
+        "abbreviation": "WBCHSE",
+        "description": "Conducts higher secondary exams in West Bengal."
+      }
+    ]
+  }
+  
