@@ -14,17 +14,13 @@ function App() {
       <Router>
         <Navbar />
         <Routes>
-          <Route path="/" element={<MainWebsite />}></Route>
-          <Route path="/UgRegular" element={<UgRegular />}></Route>
-          <Route path="/PgRegular" element={<PgRegular />}></Route>
-          <Route
-            path="/UgRegular/StudentDetails"
-            element={<StudentDetails />}
-          ></Route>
-          <Route
-            path="/PgRegular/StudentDetails"
-            element={<StudentDetails />}
-          ></Route>
+          <Route path="/" element={<MainWebsite />} />
+          <Route path="/UgRegular" element={<UgRegular />}/>
+          <Route path="/PgRegular" element={<PgRegular />}/>
+          <Route path="/UgRegular" element={<StudentDetails />} >
+            <Route path="/StudentDetails" />
+          </Route>
+          <Route path="/PgRegular/StudentDetails" element={<StudentDetails />} />
         </Routes>
         <Footer />
       </Router>
